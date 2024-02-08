@@ -1,0 +1,4 @@
+Tech Talk : Linus Torvalds on git : https://www.youtube.com/watch?v=4XpnKHJAok8&feature=youtu.be
+Progit: https://git-scm.com/book/en/v2
+Markdown: https://docs.github.com/pt/get-started/writing-on-github
+Convenção de commit: https://github.com/conventional-commits/conventionalcommits.org
