@@ -1,0 +1,50 @@
+Oque é IA: 
+    Prever resultados e reconhecer padrões com base em dados históricos.
+    Extrair informações de fontes para obter conhecimento.
+    Compreender a linguagem e participar de conversar.
+    Reconhecer eventos anormais e tomar decisões.
+    Interpretação de informações visuais.
+
+Cargas de Trabalho comuns de IA:
+    Machine Learning:
+        Modelos preditivos baseados em dados e estatísticas.
+    Visão conputacional
+        Capacidade da iA para interpretar o mundo visualmente por meio de câmeras, vídeos e imagens.
+    Processamento de linguagem natural  
+        Capacidades da IA para que um computador interprete a linguagem escrita ou falada e responda adequadamente.
+    Inteligência de Documentos
+        Capacidades de IA que lidam com o gerenciamento, processamento e usa de grandes valumes de dados e encontrados em formulários e Documentos.
+    Mineração de Conhecimento   
+        Capacidade de IA para extrair informações de grandes volumes de dados muitas vezes não estruturados para criar um conhecimento pesquisável. (ingerir, enriquecer e explorar).
+        vide. Ingest_Enrich_Explore.png
+    IA Generativa   
+        Recursos de IA que criam conteúdo original em vários formatos, incluindo linguagem natural, imagem, código e muito mais. exe.: ChatGPT
+    Princípios de IA Responsável    
+        Imparcialidade (vide Principios_IA.png)
+            Desafio ou Risco   
+                O preconceito pode afetar os resultados
+            Exemplo
+                Um modelo de aprovação de empréstimo que discrima por gênero devido ao preconceito nos dados com os quais foi treinado
+        Confiabilidade e segurança
+            Desafio ou Risco
+                Erros podem causar danos
+            Exemplo
+                Um veículo autônomo sofre uma falha no sistema e causa uma colisão
+        Privacidade e Segurança
+            Desafio ou Risco
+                Dados privados podem ser expostos
+            Exemplo
+                Um bot de diagnóstico médico é treinado usando dados confidenciais de pacientes, que são armazenados de forma insegura
+        Inclusão de transparência
+            Desafio ou Risco
+                As soluções podem não funcionar para todos
+                   Exemplo: Um aplicativo preditivo não fornece saída de áudio para usuários com deficiência visual
+                Usuários devem confiar em um sistema complexo  
+                    Exemplo: Uma ferramenta financeira baseada em IA faz recomendações de investimento - Em que se baseiam?
+        Responsabilidade    
+            Desafio ou Risco    
+                Quem é reponsável pelas decisões baseadas na IA?
+                    Exemplo: Uma pessoa inocente é condenada por um crime com base em provas de reconhecimento facial - quem é o reponsável?                
+                
+                              
+    Material complementar = https://academiapme-my.sharepoint.com/:p:/g/personal/nubia_dio_me/EVdP5BFHxrJKgBBzFiK_UQMBWv4NAKXaMp4qkZyl27LaWw?e=IaGBMI
