@@ -1,0 +1,35 @@
+O aprendizado de maquina pode ser dividido em dois Supervisionado e não Supervisionado.
+
+* Supervisionado = treinamento com rótulos conhecidos
+* Não Supervisionado = treinamento não rotulado
+
+
+* Supervisionado = 
+    * Regressão  = O rótulo é um valor numérico
+    * Classificação = O rótulo é uma categoria ou claase
+        - classificação binária 
+        - Classificação multiclasse
+* Não Supervisionado = 
+    * Classificação
+
+
+
+1 - Dados de treinamento = observações anteriores ou  Dados de Validação = rótulos já conhecidos
+2 - Algoritmo = generaliza a relação entre x e y como uma função
+3 - Modelo = encapsula a funação
+4 - Previsões = gerado a partir dos dados de validação 
+5 - Avaliação de modelo = compara os rótulos previstos com os reais
+
+
+
+
+Aprendizado Profundo
+
+    Rede reural humana
+
+        cada neuronio tem uma função
+        ∫(f(x,w))
+
+        Cada neurônio é uma função que opera com um valor de entrada X e um peso w
+        
+        

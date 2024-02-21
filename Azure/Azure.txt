@@ -1,0 +1,23 @@
+Azure fornece
+
+    Armazenamento de dados  
+    Serviços
+    Computação
+
+
+
+Serviços de IA no Microsoft Azure   
+    Aprendizadode maquina = uma plataforma para treinar, implantar e gerenciar modelos de apredizado de máquina
+    Serviços de IA do Azure = um conjunto de serviços que abrange visão, fala, linguagem, decisão e IA generativa
+    Pesquisa congnitiva do Azure = Extração, enriquecimento e indexação de dados para pesquisa inteligente e mineração de cohecimento
+
+
+Serviços de IA do Azure
+    Recursos autônomos para serviços específicos 
+    Recurso geral de serviços de IA do Azure para vários serviços        
+
+Consumindo por aplicativos via:
+
+    Uma endpoint REST
+    Uma chave de autenticação ou token de autorização 
+    
